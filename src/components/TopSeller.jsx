@@ -4,18 +4,18 @@ import { FaPlus, FaCheck } from "react-icons/fa";
 const TopSeller = () => {
     
 const sellers = [
-  { id: 1, name: "Roxanne Wallaker", rank: 1, eth: "1.56 wETH", img: "./public/author1.png"},
-  { id: 2, name: "Winifred Clem", rank: 2, eth: "1.56 wETH", img: "./public/author14.png"},
-  { id: 3, name: "Angelica Sherman", rank: 3, eth: "1.56 wETH", img: "./public/author16.png"},
-  { id: 4, name: "Hayden Yates", rank: 4, eth: "1.56 wETH", img: "./public/author14.png"},
-  { id: 5, name: "Rowena Tillery", rank: 5, eth: "1.56 wETH", img: "./public/author1.png"},
-  { id: 6, name: "Roderick Norman", rank: 6, eth: "1.56 wETH", img: "./public/author16.png"},
-  { id: 7, name: "Virginia Richards", rank: 7, eth: "1.56 wETH", img: "./public/author1.png"},
-  { id: 8, name: "Barbara Moore", rank: 8, eth: "1.56 wETH", img: "./public/author16.png"},
-  { id: 9, name: "Virginia Richards", rank: 9, eth: "1.56 wETH", img: "./public/author14.png"},
-  { id: 10, name: "Colin Fennimore", rank: 10, eth: "1.56 wETH", img: "./public/author16.png"},
-  { id: 11, name: "Ebenezer Anderson", rank: 11, eth: "1.56 wETH", img: "./public/author1.png"},
-  { id: 12, name: "Simona Davidson", rank: 12, eth: "1.56 wETH", img: "./public/author16.png"},
+  { id: 1, name: "Roxanne Wallaker", rank: 1, eth: "1.56 wETH", img: "./author1.png"},
+  { id: 2, name: "Winifred Clem", rank: 2, eth: "1.56 wETH", img: "./author14.png"},
+  { id: 3, name: "Angelica Sherman", rank: 3, eth: "1.56 wETH", img: "./author16.png"},
+  { id: 4, name: "Hayden Yates", rank: 4, eth: "1.56 wETH", img: "./author14.png"},
+  { id: 5, name: "Rowena Tillery", rank: 5, eth: "1.56 wETH", img: "./author1.png"},
+  { id: 6, name: "Roderick Norman", rank: 6, eth: "1.56 wETH", img: "./author16.png"},
+  { id: 7, name: "Virginia Richards", rank: 7, eth: "1.56 wETH", img: "./author1.png"},
+  { id: 8, name: "Barbara Moore", rank: 8, eth: "1.56 wETH", img: "./author16.png"},
+  { id: 9, name: "Virginia Richards", rank: 9, eth: "1.56 wETH", img: "./author14.png"},
+  { id: 10, name: "Colin Fennimore", rank: 10, eth: "1.56 wETH", img: "./author16.png"},
+  { id: 11, name: "Ebenezer Anderson", rank: 11, eth: "1.56 wETH", img: "./author1.png"},
+  { id: 12, name: "Simona Davidson", rank: 12, eth: "1.56 wETH", img: "./author16.png"},
 ];
 
   return (

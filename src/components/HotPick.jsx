@@ -8,84 +8,84 @@ const HotPick = () => {
             id: 14843,
             title: "Avidlines",
             creator: "Frank Stevens",
-            image: "./public/card/product2.jpg",
+            image: "./card/product2.jpg",
             price: "4.53 ETH",
         },
         {
             id: 14844,
             title: "Green Worm",
             creator: "Henry Vargas",
-            image: "./public/card/product32.jpg",
+            image: "./card/product32.jpg",
             price: "2.10 ETH",
         },
         {
             id: 14845,
             title: "Pixel Bug",
             creator: "Alex Ray",
-            image: "./public/card/product33.jpg",
+            image: "./card/product33.jpg",
             price: "1.75 ETH",
         },
         {
             id: 14846,
             title: "Neon Creature",
             creator: "Luna Fox",
-            image: "./public/card/product34.jpg",
+            image: "./card/product34.jpg",
             price: "3.40 ETH",
         },
         {
             id: 14847,
             title: "Soft Monster",
             creator: "Chris Nolan",
-            image: "./public/card/product35.jpg",
+            image: "./card/product35.jpg",
             price: "2.95 ETH",
         },
         {
             id: 14848,
             title: "Mini Alien",
             creator: "Zara Khan",
-            image: "./public/card/product36.jpg",
+            image: "./card/product36.jpg",
             price: "1.20 ETH",
         },
         {
             id: 14849,
             title: "Cute Beast",
             creator: "Sam Wilson",
-            image: "./public/card/product37.jpg",
+            image: "./card/product37.jpg",
             price: "3.85 ETH",
         },
         {
             id: 14850,
             title: "Jelly Bot",
             creator: "Eva Green",
-            image: "./public/card/product38.jpg",
+            image: "./card/product38.jpg",
             price: "2.60 ETH",
         },
         {
             id: 14851,
             title: "Blob Kid",
             creator: "Ryan Lee",
-            image: "./public/card/product39.jpg",
+            image: "./card/product39.jpg",
             price: "1.90 ETH",
         },
         {
             id: 14852,
             title: "Toy Ghost",
             creator: "Mia Stone",
-            image: "./public/card/product40.jpg",
+            image: "./card/product40.jpg",
             price: "2.30 ETH",
         },
         {
             id: 14853,
             title: "Candy Critter",
             creator: "Noah Park",
-            image: "./public/card/product41.jpg",
+            image: "./card/product41.jpg",
             price: "3.10 ETH",
         },
         {
             id: 14854,
             title: "Soft Dino",
             creator: "Olivia Hart",
-            image: "./public/card/product42.jpg",
+            image: "./card/product42.jpg",
             price: "4.00 ETH",
         },
     ];
@@ -176,7 +176,7 @@ const HotPick = () => {
                         {/* Footer */}
                         <div className="flex items-center justify-between mt-5">
                             <div className="flex items-center gap-2 text-white font-semibold">
-                                <img className='w-8 h-8' src="./public/ethe.svg" alt="" />
+                                <img className='w-8 h-8' src="./ethe.svg" alt="" />
                                 {nft.price}
                             </div>
 

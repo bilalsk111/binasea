@@ -4,35 +4,35 @@ import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 const categories = [
   {
     title: "Music",
-    image: "./public/product-category-1.jpg",
+    image: "./product-category-1.jpg",
   },
   {
     title: "Sport",
-    image: "./public/product-category-4.jpg",
+    image: "./product-category-4.jpg",
   },
   {
     title: "Digital Art",
-    image: "./public/product-category-3.jpg",
+    image: "./product-category-3.jpg",
   },
   {
     title: "Style",
-    image: "./public/product-category-2.jpg",
+    image: "./product-category-2.jpg",
   },
   {
     title: "Music",
-    image: "./public/product-category-1.jpg",
+    image: "./product-category-1.jpg",
   },
   {
     title: "Sport",
-    image: "./public/product-category-4.jpg",
+    image: "./product-category-4.jpg",
   },
   {
     title: "Digital Art",
-    image: "./public/product-category-3.jpg",
+    image: "./product-category-3.jpg",
   },
   {
     title: "Style",
-    image: "./public/product-category-2.jpg",
+    image: "./product-category-2.jpg",
   },
 ];
 

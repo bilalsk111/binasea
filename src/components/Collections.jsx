@@ -5,75 +5,75 @@ import { FaHeart } from "react-icons/fa";
 const Collections = () => {
     const collect = [
         {
-            img1: "./public/collection1.jpg",
-            img2: "./public/collection2.jpg",
-            img3: "./public/collection3.jpg",
+            img1: "./collection1.jpg",
+            img2: "./collection2.jpg",
+            img3: "./collection3.jpg",
+            username: "Moonbirds",
+            dp: "./author14.png",
+            price: 4500
+        },
+        {
+            img1: "./collection1.jpg",
+            img2: "./collection2.jpg",
+            img3: "./collection3.jpg",
+            username: "Moonbirds",
+            dp: "./author14.png",
+            price: 4500
+        },
+        {
+            img1: "./collection1.jpg",
+            img2: "./collection2.jpg",
+            img3: "./collection3.jpg",
+            username: "Moonbirds",
+            dp: "./author14.png",
+            price: 4500
+        },
+        {
+            img1: "./collection1.jpg",
+            img2: "./collection2.jpg",
+            img3: "./collection3.jpg",
+            username: "Moonbirds",
+            dp: "./author14.png",
+            price: 4500
+        },
+        {
+            img1: "./collection1.jpg",
+            img2: "./collection2.jpg",
+            img3: "./collection3.jpg",
+            username: "Moonbirds",
+            dp: "./author14.png",
+            price: 4500
+        },
+        {
+            img1: "./collection1.jpg",
+            img2: "./collection2.jpg",
+            img3: "./collection3.jpg",
             username: "Moonbirds",
             dp: "./public/author14.png",
             price: 4500
         },
         {
-            img1: "./public/collection1.jpg",
-            img2: "./public/collection2.jpg",
-            img3: "./public/collection3.jpg",
+            img1: "./collection1.jpg",
+            img2: "./collection2.jpg",
+            img3: "./collection3.jpg",
             username: "Moonbirds",
-            dp: "./public/author14.png",
+            dp: "./author14.png",
             price: 4500
         },
         {
-            img1: "./public/collection1.jpg",
-            img2: "./public/collection2.jpg",
-            img3: "./public/collection3.jpg",
+            img1: "./collection1.jpg",
+            img2: "./collection2.jpg",
+            img3: "./collection3.jpg",
             username: "Moonbirds",
-            dp: "./public/author14.png",
+            dp: "./author14.png",
             price: 4500
         },
         {
-            img1: "./public/collection1.jpg",
-            img2: "./public/collection2.jpg",
-            img3: "./public/collection3.jpg",
+            img1: "./collection1.jpg",
+            img2: "./collection2.jpg",
+            img3: "./collection3.jpg",
             username: "Moonbirds",
-            dp: "./public/author14.png",
-            price: 4500
-        },
-        {
-            img1: "./public/collection1.jpg",
-            img2: "./public/collection2.jpg",
-            img3: "./public/collection3.jpg",
-            username: "Moonbirds",
-            dp: "./public/author14.png",
-            price: 4500
-        },
-        {
-            img1: "./public/collection1.jpg",
-            img2: "./public/collection2.jpg",
-            img3: "./public/collection3.jpg",
-            username: "Moonbirds",
-            dp: "./public/author14.png",
-            price: 4500
-        },
-        {
-            img1: "./public/collection1.jpg",
-            img2: "./public/collection2.jpg",
-            img3: "./public/collection3.jpg",
-            username: "Moonbirds",
-            dp: "./public/author14.png",
-            price: 4500
-        },
-        {
-            img1: "./public/collection1.jpg",
-            img2: "./public/collection2.jpg",
-            img3: "./public/collection3.jpg",
-            username: "Moonbirds",
-            dp: "./public/author14.png",
-            price: 4500
-        },
-        {
-            img1: "./public/collection1.jpg",
-            img2: "./public/collection2.jpg",
-            img3: "./public/collection3.jpg",
-            username: "Moonbirds",
-            dp: "./public/author14.png",
+            dp: "./author14.png",
             price: 4500
         },
     ]

@@ -39,7 +39,7 @@ const Explore = () =>{
     title: "The Monkey sad",
     creator: "@SalvadorDali",
     bid: "1.56 wETH",
-    image: "./public/card2/product3.jpg",
+    image: "./card2/product3.jpg",
     bg: "#E7B27C",
   },
   {
@@ -47,7 +47,7 @@ const Explore = () =>{
     title: "Phyllis Lowe",
     creator: "@SamsonHarley",
     bid: "1.56 wETH",
-    image: "./public/card2/product44.jpg",
+    image: "./card2/product44.jpg",
     bg: "#E9A2A8",
   },
   {
@@ -55,7 +55,7 @@ const Explore = () =>{
     title: "Camille Rogers",
     creator: "@SalvadorDali",
     bid: "1.56 wETH",
-    image: "./public/card2/product45.jpg",
+    image: "./card2/product45.jpg",
     bg: "#B77CD8",
   },
   {
@@ -63,7 +63,7 @@ const Explore = () =>{
     title: "Skye Carter",
     creator: "@RusselLindsey",
     bid: "1.56 wETH",
-    image: "./public/card2/product46.jpg",
+    image: "./card2/product46.jpg",
     bg: "#F6A6C1",
   },
   {
@@ -71,7 +71,7 @@ const Explore = () =>{
     title: "Valentine Romer",
     creator: "@BrittanyWard",
     bid: "1.56 wETH",
-    image: "./public/card2/product47.jpg",
+    image: "./card2/product47.jpg",
     bg: "#F4D7B4",
   },
   {
@@ -79,7 +79,7 @@ const Explore = () =>{
     title: "Julia Tomlinson",
     creator: "@ZackPerry",
     bid: "1.56 wETH",
-    image: "./public/card2/product48.jpg",
+    image: "./card2/product48.jpg",
     bg: "#E9B28B",
   },
   {
@@ -87,7 +87,7 @@ const Explore = () =>{
     title: "Herbert Nunez",
     creator: "@JuliaTomlinson",
     bid: "1.56 wETH",
-    image: "./public/card2/product49.jpg",
+    image: "./card2/product49.jpg",
     bg: "#B8C9F1",
   },
   {
@@ -95,7 +95,7 @@ const Explore = () =>{
     title: "Herbert Little",
     creator: "@SidneyHall",
     bid: "1.56 wETH",
-    image: "./public/card2/product50.jpg",
+    image: "./card2/product50.jpg",
     bg: "#EAE1D9",
   },
 ];
