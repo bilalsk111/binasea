@@ -7,7 +7,7 @@ const Landing = () => {
         <h1 className="text-8xl relative">
           Defind,Collect
           <span className="absolute right-0.5 -top-32">
-            <img src="./bg-slider.png" alt="" />
+            <img src="/bg-slider.png" alt="" />
           </span>
           and Sell Super Rate NFT
         </h1>
@@ -28,10 +28,10 @@ const Landing = () => {
       </div>
       <div className="right-content w-1/2 h-full flex items-end flex-col relative pr-[10vw]">
         <div className="img w-[25vw] h-[60vh] p-4 border-2 overflow-hidden rounded-xl">
-          <img src="./slider-1.jpg" alt="" className="w-full h-full object-cover rounded-md" />
+          <img src="/slider-1.jpg" alt="" className="w-full h-full object-cover rounded-md" />
         </div>
         <div className="profile w-[20vw] flex items-center gap-5 px-4 py-6 absolute -bottom-32 bg-zinc-200 rounded-md">
-          <img className="w-16" src="./slider-4.png" alt="" />
+          <img className="w-16" src="/slider-4.png" alt="" />
           <div className="profile-content">
             <h3 className="text-black text-2xl font-semibold pb-5">"The Monkey Sad"</h3>
             <p className="text-md text-zinc-400">@Solvad0r Dali</p>
