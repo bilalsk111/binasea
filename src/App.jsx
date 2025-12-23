@@ -1,13 +1,13 @@
 import React from 'react'
-import Navbar from './components/Navbar';
-import Landing from './components/landing';
-import AllCategories from './components/AllCategories';
-import NFTCard from './components/NFTCard';
-import HotPick from './components/HotPick';
-import Collections from './components/Collections';
-import TopSeller from './components/TopSeller';
-import Explore from './components/Explore';
-import Footer from './components/Footer';
+import Navbar from './components/Navbar.jsx';
+import Landing from './components/Landing.jsx';
+import AllCategories from './components/AllCategories.jsx';
+import NFTCard from './components/NFTCard.jsx';
+import HotPick from './components/HotPick.jsx';
+import Collections from './components/Collections.jsx';
+import TopSeller from './components/TopSeller.jsx';
+import Explore from './components/Explore.jsx';
+import Footer from './components/Footer.jsx';
 
 
 const App = () => {
